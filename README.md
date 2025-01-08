@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a computer science student at LSU, pursuing a software engineering career.
+I'm a computer science graduate at LSU, pursuing a software engineering career.
 I'm currently working on learning MERN stack
 
 
